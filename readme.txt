@@ -1,4 +1,4 @@
-
+<p align="center"><img width="300" src="cortana-large-face.png"></p>
 
 This conky has one size for your usage and two type for arch linux distributation and other linux distributations
 
